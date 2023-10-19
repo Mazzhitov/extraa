@@ -1,1 +1,8 @@
-ВВВ
+cd Desktop
+Cd GitHub-test
+echo test.txt
+Touch test.txt
+ls
+git add . 
+git commit -m “message”
+git push -u origin main
